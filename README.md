@@ -31,7 +31,7 @@ npm test # Runs tests
 
 Compy Components/Counter into your project structure and include this in your jsx
 
-```js
+```jsx
 import Counter from Components/Counter/Counter
 
 // Other jsx code
