@@ -23,13 +23,14 @@ To get simple-counter, follow these steps:
 ```bash
 git clone https://github.com/2kabhishek/simple-counter
 cd simple-counter
+npm install # Installs dependencies
 npm start # Runs live on localhost:3000
 npm test # Runs tests
 ```
 
 ## Using simple-counter
 
-Compy Components/Counter into your project structure and include this in your jsx
+Copy Components/Counter into your project structure and include this in your jsx
 
 ```jsx
 import Counter from Components/Counter/Counter
